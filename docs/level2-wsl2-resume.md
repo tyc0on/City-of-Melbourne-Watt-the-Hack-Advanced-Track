@@ -25,3 +25,8 @@ Key repair:
 - The prior strategy held SOC during the dawn heating spike and caused `$8.125M` in blackout penalties.
 - The updated strategy treats import-cap breaches as reliability-critical, runs diesel during the 185 MW dawn spike, and reserves enough battery for the full spike window.
 - A high-price post-dawn shaving rule reduces later imports while keeping zero unmet demand.
+
+Follow-up optimization:
+
+- `submissions/level2_frequency_frenzy/attempt2_strategy.py` is a generated LP ramp-smoothed schedule with a final score of `$1,066,497.4480180626`.
+- It keeps unmet demand at `0.0 MWh`, cuts demand charge to about `$85k`, and lowers ramp charge to about `$9.4k`.
