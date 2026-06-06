@@ -28,5 +28,5 @@ Key repair:
 
 Follow-up optimization:
 
-- `submissions/level2_frequency_frenzy/attempt2_strategy.py` is a generated LP ramp-smoothed schedule with a final score of `$1,066,483.3424982307`.
+- `submissions/level2_frequency_frenzy/attempt2_strategy.py` is a generated LP ramp-smoothed schedule with a final score of `$1,064,526.4041564139`.
 - It keeps unmet demand at `0.0 MWh`, cuts demand charge to about `$85k`, and lowers ramp charge to about `$9.2k`.
