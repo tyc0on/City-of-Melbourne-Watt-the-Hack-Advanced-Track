@@ -13,7 +13,7 @@ Current ready artifacts:
 - `level1_duck_curve/attempt2_strategy.py` - Level 1 threshold backup, official local score `$862,965.66`.
 - `level1_duck_curve/attempt3_strategy.py` - Level 1 stable starter fallback, official local score `$912,200.20`.
 - `level2_frequency_frenzy/attempt1_strategy.py` - WSL2-confirmed Level 2 candidate; local `frequency_frenzy` score `$1,211,212.09` with zero unmet demand.
-- `level2_frequency_frenzy/attempt2_strategy.py` - LP ramp-smoothed Level 2 candidate; local `frequency_frenzy` score `$1,066,497.45` with zero unmet demand.
+- `level2_frequency_frenzy/attempt2_strategy.py` - LP ramp-smoothed Level 2 candidate; local `frequency_frenzy` score `$1,066,483.34` with zero unmet demand.
 - `level3_ai_grid_shock/attempt1_strategy.py` - first FCAS-safe compliance-aware candidate; official Level 3 score pending scenario access.
 - `level3_ai_grid_shock/attempt2_strategy.py` - proxy-improved Level 3 candidate; `agentic_demo` proxy score `$263,861.53`.
 

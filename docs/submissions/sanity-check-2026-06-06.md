@@ -22,14 +22,14 @@ Compared with the copied starting point, score improved from `$9,307,219.835` to
 Command:
 
 ```bash
-.venv/bin/python -m watt_the_hack.playtest submissions/level2_frequency_frenzy/attempt2_strategy.py --scenario frequency_frenzy --no-plots --quiet --out runs/level2_attempt2_lp_final
+.venv/bin/python -m watt_the_hack.playtest submissions/level2_frequency_frenzy/attempt2_strategy.py --scenario frequency_frenzy --no-plots --quiet --out runs/level2_attempt2_fine_final
 ```
 
 Result:
 
-- Final score: `$1,066,497.4480180626`
+- Final score: `$1,066,483.3424982307`
 - Unmet demand: `0.0 MWh`
 - Controller errors: `0`
 - Blackout penalty: `$0.00`
-- Ramp charge: `$9,410.7581`
+- Ramp charge: `$9,192.7812`
 - Demand charge: `$85,000.0012`
